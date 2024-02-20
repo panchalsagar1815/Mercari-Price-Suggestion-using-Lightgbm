@@ -1,4 +1,4 @@
-# Mercari-Price-Suggestion-using
+# Mercari-Price-Suggestion
 
 **Project: Mercari Price Suggestion using LightGBM**
 
