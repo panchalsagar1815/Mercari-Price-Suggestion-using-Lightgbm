@@ -7,7 +7,7 @@ The Mercari Price Suggestion project focuses on predicting the price of products
 
 **Data Processing:**
 1. **Data Cleaning and Preprocessing:**
-   - Thorough cleaning of the dataset to handle missing values, outliers, and ensure data quality.
+   - Thorough cleaning of the dataset to handle missing values, and outliers, and ensure data quality.
    - Feature engineering to create meaningful variables.
 2. **Exploratory Data Analysis (EDA):**
    - Utilized EDA techniques for a comprehensive understanding of feature distributions, relationships, and patterns.
