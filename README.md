@@ -1,6 +1,4 @@
-# 
-
-**Project: Mercari Price Suggestion using LightGBM**
+# **Project: Mercari Price Suggestion using LightGBM**
 
 **Objective:**
 The Mercari Price Suggestion project focuses on predicting the price of products based on various features such as brand name, category, item condition, item description, name, shipping, and other relevant parameters. Leveraging LightGBM, a gradient-boosting framework, this project aims to create an effective model for suggesting accurate product prices.
